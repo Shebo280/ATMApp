@@ -1,6 +1,3 @@
-Here’s an updated version of the README that includes the available user accounts:
-
----
 
 # 🌟 My ATM Console Application 🌟
 
